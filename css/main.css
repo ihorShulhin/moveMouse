@@ -1,0 +1,61 @@
+#blockGreen {
+    border: 2px solid black;
+    width: 300px;
+    height: 150px;
+    background-color: green;
+    color: white;
+}
+
+#blockRed {
+    width: 300px;
+    height: 150px;
+    background-color: red;
+    color: white;
+    border: 2px solid black;
+    position: absolute;
+    left: 320px;
+    top: 8px;
+}
+
+#blockBlue {
+    width: 300px;
+    height: 150px;
+    position: absolute;
+    top: 8px;
+    left: 630px;
+    background-color: blue;
+    color: white;
+    border: 2px solid black;
+}
+
+#blockOrange {
+    width: 300px;
+    height: 150px;
+    background-color: orange;
+    color: white;
+    border: 2px solid black;
+    position: absolute;
+    top: 166px;
+}
+
+#blockBrown {
+    width: 300px;
+    height: 150px;
+    background-color: brown;
+    color: white;
+    border: 2px solid black;
+    position: absolute;
+    top: 166px;
+    left: 320px;
+}
+
+#blockYellow {
+    width: 300px;
+    height: 150px;
+    background-color: yellow;
+    color: white;
+    border: 2px solid black;
+    position: absolute;
+    top: 166px;
+    left: 630px;
+}
